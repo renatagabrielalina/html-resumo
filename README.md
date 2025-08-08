@@ -42,5 +42,5 @@ HTML serve para:
 
 ---
 
-👩‍💻 Criado por: [Seu Nome Aqui]  
-📅 Atualizado em: [Coloque a data]
+👩‍💻 Criado por: Renata Gabriela  
+📅 Atualizado em: 08/08/2025
